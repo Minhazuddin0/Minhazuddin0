@@ -60,10 +60,10 @@ Here are some of the exciting projects I’ve worked on using the MERN stack:
 
 Feel free to connect with me or reach out if you'd like to collaborate on a project or discuss development topics!
 
-- **LinkedIn**: [Your LinkedIn URL] 🌐
-- **Email**: [your.email@example.com] 📧
+- **LinkedIn**: [https://www.linkedin.com/in/minhazuddin0/] 🌐
+- **Email**: [minhazrock1@gmail.com] 📧
 - **Portfolio**: [Your Portfolio URL] 🌍
-- **GitHub**: [Your GitHub URL] 🐙
+- **GitHub**: [https://github.com/Minhazuddin0] 🐙
 
 ---
 
