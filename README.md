@@ -62,7 +62,7 @@ Feel free to connect with me or reach out if you'd like to collaborate on a proj
 
 - **LinkedIn**: [https://www.linkedin.com/in/minhazuddin0/] 🌐
 - **Email**: [minhazrock1@gmail.com] 📧
-- **Portfolio**: [Your Portfolio URL] 🌍
+- **Portfolio**: [https://github.com/Minhazuddin0] 🌍
 - **GitHub**: [https://github.com/Minhazuddin0] 🐙
 
 ---
